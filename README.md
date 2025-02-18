@@ -19,7 +19,7 @@
 ---
 
 ### 🛠️ Tools & IDEs  
-<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/github.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/wix.png"/>
+<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/github.png"/> 
  
 
 ---
