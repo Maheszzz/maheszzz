@@ -13,7 +13,14 @@
 ### 👨‍💻 Tech Stack  
 #### **Frontend**  
  
-<img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>  
+<img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> <img height="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/> <img height="50" src="https://img.icons8.com/ios-filled/50/000000/nextjs.png"/>
+
+
+
+---
+#### **Backend**  
+
+<img height="50" src="https://img.icons8.com/external-others-iconmarket/48/000000/external-mongodb-noSQL-others-iconmarket.png"/>
 
 
 ---
