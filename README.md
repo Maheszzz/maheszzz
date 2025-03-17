@@ -53,17 +53,6 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/wave.svg" width="100%">
 </div>
 
-<!-- Project Showcase with Images -->
-<h2 align="center">🔥 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/maheszzz/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheszzz&repo=project1&theme=algolia&hide_border=true" />
-  </a>
-  <a href="https://github.com/maheszzz/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheszzz&repo=project2&theme=algolia&hide_border=true" />
-  </a>
-</div>
 
 <!-- LeetCode Integration -->
 <h2 align="center">⚡ Competitive Coding Profile</h2>
