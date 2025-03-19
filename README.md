@@ -40,11 +40,6 @@
 
 ---
 
-<h2 align="center">📊 Contribution Metrics</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheszzz&theme=algolia&hide_border=true&border_radius=20&fire=FF2D2D&ring=2100FF&currStreakLabel=2100FF" alt="GitHub Streak" />
-</div>
-
 ---
 
 <h2 align="center">⚡ Competitive Coding</h2>
