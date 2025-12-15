@@ -33,109 +33,87 @@ const maheswaran = {
     "♿ Accessibility Standards (WCAG)",
     "📱 Responsive Design"
   ],
-  coreValues: ["Clean Code", "Best Practices", "Continuous Learning"],
+  coreValues: ["Clean Code", "Best Practices", "Continuous Improvement"],
   funFact: "I debug with console.log() and I'm not ashamed! 🚀"
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ### 🎯 Current Focus:
 
 - 🔨 Building scalable, maintainable frontend architectures
-- 🎨 Crafting pixel-perfect, responsive user interfaces  
+- 🎨 Crafting pixel-perfect, responsive user interfaces
 - ⚡ Optimizing application performance and Core Web Vitals
 - 📚 Exploring advanced React patterns and micro-frontends
 - 🤝 Contributing to open-source projects
-- 📝 Writing technical blogs and sharing knowledge
 
-### 💬 Let's Connect:
+---
 
-<p align="left">
-<a href="https://www.linkedin.com/in/mahes27/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/maheswaran42280" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="mailto:maheswaran2527@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://maheszzz-portfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-</p>
+## 💼 What I Bring to the Table
+
+✅ **5+ years** of hands-on frontend development experience  
+✅ **Proven track record** of delivering high-quality, scalable applications  
+✅ **Performance optimization expertise** - reduced load times by 50%+  
+✅ **Responsive design mastery** - mobile-first approach  
+✅ **Accessibility-first mindset** - WCAG compliance  
+✅ **Strong problem-solving** skills with attention to detail  
+✅ **Excellent collaboration** with cross-functional teams  
+✅ **Modern tooling** - Webpack, Vite, ESLint, Prettier  
+✅ **Git workflows & Agile** methodology experience  
+✅ **Mentorship** - helping junior developers grow  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### Frontend Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,bootstrap,materialui&perline=10" />
-</p>
+
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34C26)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-0D1117?style=for-the-badge&logo=mui&logoColor=007FFF)
 
 ### Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgresql&perline=8" />
-</p>
+
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063)
+![Express.js](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=13AA52)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,vercel,netlify,webpack,vite&perline=10" />
-</p>
 
-### Currently Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,graphql,redux&perline=7" />
-</p>
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheszzz&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheszzz&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheszzz&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheszzz&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheszzz&theme=radical&hide_border=true)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maheszzz&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheszzz&theme=radical&hide_border=true&layout=compact)
 
 ---
 
 ## 📊 Coding Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheszzz&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheszzz&theme=radical&hide_border=true)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maheszzz&repo=maheszzz&theme=radical&hide_border=true)](https://github.com/maheszzz/maheszzz)
 
-</div>
-
 > 💡 **Pro Tip**: Check out my [pinned repositories](https://github.com/maheszzz?tab=repositories) to see my best work!
-
----
-
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon! Currently working on technical content
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🏅 **Frontend Developer** - Building production-ready applications
-- ⚡ **Performance Optimization Expert** - Improved Core Web Vitals by 40%
-- 📚 **Continuous Learner** - Always exploring new technologies
-- 🤝 **Team Collaborator** - Experience working in agile teams
-- 🎓 **Problem Solver** - Active on competitive coding platforms
 
 ---
 
@@ -143,9 +121,10 @@ const maheswaran = {
 
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-🎯 **My Approach:**
+### 🎯 My Approach:
+
 - Write clean, self-documenting code
-- Follow SOLID principles and design patterns  
+- Follow SOLID principles and design patterns
 - Test-driven development (TDD)
 - Continuous integration and deployment
 - Performance-first mindset
@@ -155,51 +134,21 @@ const maheswaran = {
 
 ## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  █████████████░░░░░░░  65%
-TypeScript    4 hrs 15 mins  █████░░░░░░░░░░░░░░░  22%
-CSS/SCSS      1 hr 45 mins   ██░░░░░░░░░░░░░░░░░░   9%
-HTML          45 mins        █░░░░░░░░░░░░░░░░░░░   4%
 ```
-<!--END_SECTION:waka-->
+JavaScript    12 hrs 30 mins  █████████████░░░░░░░  65%
+TypeScript     4 hrs 15 mins  █████░░░░░░░░░░░░░░░  22%
+CSS/SCSS       1 hr 45 mins   ██░░░░░░░░░░░░░░░░░░   9%
+HTML             45 mins     █░░░░░░░░░░░░░░░░░░░   4%
+```
 
 ---
 
-## 🎮 Fun Stuff
+## 💬 Let's Connect
 
-<div align="center">
-  
-### 🐍 Snake eating my contributions!
-
-![Snake animation](https://github.com/maheszzz/maheszzz/blob/output/github-contribution-grid-snake.svg)
-
-### 🎲 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 👨‍💻 What I Bring to the Table:
-
-✅ **5+ years** of hands-on frontend development experience  
-✅ **Proven track record** of delivering high-quality, scalable applications  
-✅ **Strong problem-solving** skills with attention to detail  
-✅ **Excellent collaboration** with cross-functional teams  
-✅ **Performance optimization** expertise - reducing load times by 50%+  
-✅ **Responsive design** mastery - mobile-first approach  
-✅ **Modern tooling** - Webpack, Vite, ESLint, Prettier  
-✅ **Version control** proficiency with Git workflows  
-✅ **Agile/Scrum** methodology experience  
-✅ **Mentorship** - helping junior developers grow  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahes27/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/maheswaran42280)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheswaran2527@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=globe&logoColor=white)](https://maheszzz-portfolio.netlify.app/)
 
 ---
 
@@ -210,7 +159,6 @@ HTML          45 mins        █░░░░░░░░░░░░░░░░
 - React.js / Next.js specialist positions
 - Full-stack JavaScript opportunities
 - Remote / Hybrid positions
-- Exciting projects with cutting-edge technologies
 
 📩 **Get in touch:** [maheswaran2527@gmail.com](mailto:maheswaran2527@gmail.com)
 
@@ -220,20 +168,10 @@ HTML          45 mins        █░░░░░░░░░░░░░░░░
 
 If you like my work and want to support me:
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/maheszzz" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-  </a>
-</p>
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/maheszzz)
 
 ---
 
-<div align="center">
-  
 ### ⭐ Show some love by starring my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
-
-</div>
