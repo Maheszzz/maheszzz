@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Introduction -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=0366D6&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Frontend+Development+Architect;Building+Scalable+Web+Solutions;React+%7C+Next.js+%7C+TypeScript+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&color=0366D6&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;Passionate+Learner" alt="Typing SVG" />
 </h1>
 
 <!-- Profile Views Counter -->
@@ -22,44 +22,45 @@
 ```javascript
 const maheswaran = {
   location: "Chennai, India",
-  role: "Frontend Development Architect",
-  workingOn: "Building immersive web experiences",
-  learning: ["Advanced React Patterns", "System Design", "Performance Optimization"],
-  expertise: [
+  role: "Frontend Developer (Fresher)",
+  currentlyLearning: "Building immersive web experiences",
+  recentProjects: ["React applications", "Next.js projects", "Performance optimization"],
+  skills: [
     "⚛️ React.js & Next.js",
-    "📦 Modern JavaScript (ES6+)",
-    "🎨 UI/UX Implementation",
-    "🚀 Performance Optimization",
-    "♿ Accessibility Standards (WCAG)",
-    "📱 Responsive Design"
+    "📦 JavaScript (ES6+)",
+    "🎨 Responsive UI/UX",
+    "🎨 CSS/SCSS",
+    "🚀 Eager to learn",
+    "💡 Problem Solver"
   ],
-  coreValues: ["Clean Code", "Best Practices", "Continuous Improvement"],
-  funFact: "I debug with console.log() and I'm not ashamed! 🚀"
+  coreValues: ["Clean Code", "Continuous Learning", "Quality"],
+  funFact: "I learn by building projects and debugging with console.log() 🚀"
 };
 ```
 
-### 🎯 Current Focus:
+### 🎯 What I'm Focused On:
 
-- 🔨 Building scalable, maintainable frontend architectures
-- 🎨 Crafting pixel-perfect, responsive user interfaces
-- ⚡ Optimizing application performance and Core Web Vitals
-- 📚 Exploring advanced React patterns and micro-frontends
+- 🔨 Building clean, maintainable React components
+- 🎨 Creating responsive, user-friendly interfaces
+- ⚡ Understanding frontend performance best practices
+- 📚 Learning advanced React patterns and optimization techniques
 - 🤝 Contributing to open-source projects
+- 💻 Solving real-world problems with code
 
 ---
 
 ## 💼 What I Bring to the Table
 
-✅ **5+ years** of hands-on frontend development experience  
-✅ **Proven track record** of delivering high-quality, scalable applications  
-✅ **Performance optimization expertise** - reduced load times by 50%+  
-✅ **Responsive design mastery** - mobile-first approach  
-✅ **Accessibility-first mindset** - WCAG compliance  
-✅ **Strong problem-solving** skills with attention to detail  
-✅ **Excellent collaboration** with cross-functional teams  
-✅ **Modern tooling** - Webpack, Vite, ESLint, Prettier  
-✅ **Git workflows & Agile** methodology experience  
-✅ **Mentorship** - helping junior developers grow  
+✅ **Strong foundation** in HTML, CSS, JavaScript, React, and Next.js  
+✅ **Project-based learning** with multiple academic and personal projects  
+✅ **Quick learner** - Ability to rapidly pick up new technologies and frameworks  
+✅ **Clean code mindset** - Focus on writing readable, maintainable code  
+✅ **Problem-solving skills** - Approach challenges systematically  
+✅ **Responsive design expertise** - Mobile-first, cross-browser compatible  
+✅ **Version control** - Git and GitHub workflow proficiency  
+✅ **Collaborative mindset** - Eager to work with teams and learn from experienced developers  
+✅ **Community engagement** - Active in learning from open-source and developer communities  
+✅ **Passion for frontend development** - Enthusiastic about creating excellent user experiences  
 
 ---
 
@@ -69,27 +70,23 @@ const maheswaran = {
 
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34C26)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-0D1117?style=for-the-badge&logo=mui&logoColor=007FFF)
 
-### Backend & Database
+### Learning & Exploring
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063)
-![Express.js](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=13AA52)
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-### Tools & Platforms
+### Development Tools
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
@@ -97,15 +94,7 @@ const maheswaran = {
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheszzz&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheszzz&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheszzz&theme=radical&hide_border=true&layout=compact)
-
----
-
-## 📊 Coding Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheszzz&theme=radical&hide_border=true)
 
 ---
 
@@ -113,22 +102,23 @@ const maheswaran = {
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maheszzz&repo=maheszzz&theme=radical&hide_border=true)](https://github.com/maheszzz/maheszzz)
 
-> 💡 **Pro Tip**: Check out my [pinned repositories](https://github.com/maheszzz?tab=repositories) to see my best work!
+> 💡 **Pro Tip**: Check out my [repositories](https://github.com/maheszzz?tab=repositories) to see my projects and learning journey!
 
 ---
 
-## 💡 Development Philosophy
+## 💡 My Development Approach
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+> "Every expert was once a beginner who never gave up." - Unknown
 
-### 🎯 My Approach:
+### 🎯 My Philosophy:
 
-- Write clean, self-documenting code
-- Follow SOLID principles and design patterns
-- Test-driven development (TDD)
-- Continuous integration and deployment
-- Performance-first mindset
-- Accessibility is not optional
+- Write clean, readable code
+- Focus on understanding core concepts
+- Build projects to apply learning
+- Read others' code to learn best practices
+- Ask questions and seek mentorship
+- Continuously improve and refactor
+- Accessibility and performance matter
 
 ---
 
@@ -136,7 +126,7 @@ const maheswaran = {
 
 ```
 JavaScript    12 hrs 30 mins  █████████████░░░░░░░  65%
-TypeScript     4 hrs 15 mins  █████░░░░░░░░░░░░░░░  22%
+React          4 hrs 15 mins  █████░░░░░░░░░░░░░░░  22%
 CSS/SCSS       1 hr 45 mins   ██░░░░░░░░░░░░░░░░░░   9%
 HTML             45 mins     █░░░░░░░░░░░░░░░░░░░   4%
 ```
@@ -155,10 +145,11 @@ HTML             45 mins     █░░░░░░░░░░░░░░░░
 ## 📧 Open for Opportunities
 
 🔍 **Currently seeking:**
-- Frontend Developer / Senior Frontend Developer roles
-- React.js / Next.js specialist positions
-- Full-stack JavaScript opportunities
-- Remote / Hybrid positions
+- Junior Frontend Developer roles
+- React.js developer internships
+- Mentorship and learning opportunities
+- Freelance projects to build experience
+- Remote / Hybrid / On-site positions
 
 📩 **Get in touch:** [maheswaran2527@gmail.com](mailto:maheswaran2527@gmail.com)
 
@@ -166,12 +157,12 @@ HTML             45 mins     █░░░░░░░░░░░░░░░░
 
 ## 💝 Support My Work
 
-If you like my work and want to support me:
+If you find my projects helpful or enjoy my journey:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/maheszzz)
 
 ---
 
-### ⭐ Show some love by starring my repositories!
+### ⭐ Let's grow together!
 
-**Thank you for visiting my profile! Let's build something amazing together! 🚀**
+**Thank you for visiting my profile! I'm excited to learn, contribute, and build amazing things with you! 🚀**
